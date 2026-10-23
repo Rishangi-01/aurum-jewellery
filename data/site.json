@@ -27,7 +27,7 @@
     }
   },
   "footer": {
-    "backgroundImage": "/images/aurum-footer-bg.png",
+    "backgroundImage": "/images/aurum-footer-bg.webp",
     "logo": {
       "src": "/images/logo.png",
       "alt": "AURUM Fine Jewellery",
@@ -69,18 +69,18 @@
       },
       "images": [
         {
-          "src": "/images/home/about1.png",
+          "src": "/images/home/about1.webp",
           "alt": "Luxury jewellery portrait showcasing elegant statement earrings"
         },
         {
-          "src": "/images/home/about2.png",
+          "src": "/images/home/about2.webp",
           "alt": "Close-up of beautifully crafted gold rings with natural stone details"
         }
       ]
     },
     "collectionsSection": {
       "image": {
-        "src": "/images/home/collections-hero.png",
+        "src": "/images/home/collections-hero.webp",
         "alt": "Luxury jewellery collection featuring sculptural gold earrings and rings"
       },
       "heading": "Our Collection",
@@ -101,28 +101,28 @@
           "id": 1,
           "title": "Gold Jewellery",
           "description": "Timeless designs that reflect tradition, elegance and lasting beauty.",
-          "image": "/images/home/gold-jewellery.png",
+          "image": "/images/home/gold-jewellery.webp",
           "href": "/collections"
         },
         {
           "id": 2,
           "title": "Diamond Jewellery",
           "description": "Brilliance that makes every moment extraordinary.",
-          "image": "/images/home/diamond-jewellery.png",
+          "image": "/images/home/diamond-jewellery.webp",
           "href": "/collections"
         },
         {
           "id": 3,
           "title": "Silver Jewellery",
           "description": "Contemporary designs for everyday sophistication.",
-          "image": "/images/home/silver-jewellery.png",
+          "image": "/images/home/silver-jewellery.webp",
           "href": "/collections"
         }
       ]
     },
     "heroSection": {
       "image": {
-        "src": "/images/home/jewellery-hero.png",
+        "src": "/images/home/jewellery-hero.webp",
         "alt": "Elegant contemporary jewellery styled for a luxury campaign"
       },
       "eyebrow": "Modern Elegance",
@@ -136,7 +136,7 @@
     },
     "servicesHero": {
       "image": {
-        "src": "/images/home/custom-jewellery-service.png",
+        "src": "/images/home/custom-jewellery-service.webp",
         "alt": "Fine diamond jewellery and handcrafted bracelets in a luxury editorial setting"
       },
       "eyebrow": "Our Services",
@@ -149,7 +149,7 @@
     "testimonialsSection": {
       "ariaLabel": "Client testimonials",
       "image": {
-        "src": "/images/home/testimonial-jewellery.png",
+        "src": "/images/home/testimonial-jewellery.webp",
         "alt": "Fine jewellery necklace styled for a luxury editorial portrait"
       },
       "eyebrow": "Testimonial",
@@ -163,7 +163,7 @@
           "id": 1,
           "name": "Priya Sharma",
           "location": "Mumbai, India",
-          "image": "/images/home/client-meera.png",
+          "image": "/images/home/client-meera.webp",
           "quote": "The craftsmanship and attention to detail are simply outstanding. My custom necklace turned out even more beautiful than I imagined. Truly a memorable experience!",
           "rating": 5
         },
@@ -171,7 +171,7 @@
           "id": 2,
           "name": "Ananya Mehta",
           "location": "Delhi, India",
-          "image": "/images/home/client-ayan.png",
+          "image": "/images/home/client-ayan.webp",
           "quote": "The design, finishing, and personal attention made the entire experience special. The jewellery was beautifully crafted and exactly what I wanted.",
           "rating": 5
         },
@@ -179,7 +179,7 @@
           "id": 3,
           "name": "Meera Kapoor",
           "location": "Jaipur, India",
-          "image": "/images/home/client-priya.png",
+          "image": "/images/home/client-priya.webp",
           "quote": "Every little detail was thoughtfully finished. I loved the elegant design and the care taken to make my jewellery feel truly personal.",
           "rating": 5
         }
@@ -190,7 +190,7 @@
     "hero": {
       "breadcrumbLabel": "Breadcrumb",
       "image": {
-        "src": "/images/hero.png",
+        "src": "/images/hero.webp",
         "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
       },
       "heading": "About Us",
@@ -204,23 +204,23 @@
       "missionHeading": "Mission",
       "mission": "To create timeless jewellery that celebrates individuality, blends traditional craftsmanship with modern design, and brings lasting value to our customers while contributing positively to our community and environment.",
       "missionImage": {
-        "src": "/images/about/mission-ring.png",
+        "src": "/images/about/mission-ring.webp",
         "alt": "Elegant diamond ring displayed on a marble surface"
       },
       "centerImage": {
-        "src": "/images/about/mission-vision-model.png",
+        "src": "/images/about/mission-vision-model.webp",
         "alt": "Model wearing elegant fine jewellery"
       },
       "visionHeading": "Vision",
       "vision": "To be a globally admired jewellery brand, known for our exceptional designs, superior quality, and ethical practices, inspiring people to cherish life's special moments with our creations.",
       "visionImage": {
-        "src": "/images/about/vision-bangles.png",
+        "src": "/images/about/vision-bangles.webp",
         "alt": "Gold diamond bangles arranged on a warm marble display"
       }
     },
     "statsSection": {
       "ariaLabel": "AURUM jewellery achievements",
-      "backgroundImage": "/images/about/stats-background.png",
+      "backgroundImage": "/images/about/stats-background.webp",
       "locale": "en-US",
       "stats": [
         { "value": 20, "suffix": "+", "label": "Years of Excellence", "icon": "gem" },
@@ -253,7 +253,7 @@
         }
       ],
       "image": {
-        "src": "/images/about/craftsmanship.png",
+        "src": "/images/about/craftsmanship.webp",
         "alt": "Artisan carefully crafting a fine jewellery ring"
       },
       "eyebrow": "The Aurum Difference",
@@ -271,7 +271,7 @@
     "hero": {
       "breadcrumbLabel": "Breadcrumb",
       "image": {
-        "src": "/images/hero.png",
+        "src": "/images/hero.webp",
         "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
       },
       "heading": "Our Collections",
@@ -302,46 +302,46 @@
       "productsLabel": "products",
       "itemsPerPage": 8,
       "products": [
-        { "id": 1, "category": "NECKLACES", "name": "Lab-Grown Diamond ½ct. Round Brilliant Solitaire Pendant", "material": "White", "price": 65, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 2, "category": "EARRINGS", "name": "Lab-Grown Diamond ½ct. tw. Round Brilliant Solitaire Studs", "material": "White", "price": 120, "rating": 4, "image": "/images/collections/product2.png" },
-        { "id": 3, "category": "NECKLACES", "name": "Lab-Grown Diamond ¼ct. Mini Baguette Pendant", "material": "White", "price": 120, "rating": 4, "image": "/images/collections/product3.png" },
-        { "id": 4, "category": "NECKLACES", "name": "Lab-Grown Diamond ¼ct. Mini Heart Pendant", "material": "Pink", "price": 89, "rating": 4, "image": "/images/collections/product4.png" },
-        { "id": 5, "category": "RINGS", "name": "Lab-Grown Diamond 1ct. Round Solitaire Ring", "material": "White", "price": 350, "rating": 4, "image": "/images/collections/product5.png" },
-        { "id": 6, "category": "EARRINGS", "name": "Lab-Grown Diamond Pear Drop Earrings", "material": "White", "price": 180, "rating": 4, "image": "/images/collections/product7.png" },
-        { "id": 7, "category": "BANGLES", "name": "Lab-Grown Diamond Tennis Bangle", "material": "White", "price": 250, "rating": 4, "image": "/images/collections/product3.png" },
-        { "id": 8, "category": "NECKLACES", "name": "Lab-Grown Diamond Floral Pendant", "material": "White", "price": 95, "rating": 4, "image": "/images/collections/product2.png" },
-        { "id": 9, "category": "RINGS", "name": "Classic Gold Solitaire Ring", "material": "Yellow Gold", "price": 220, "rating": 5, "image": "/images/collections/product3.png" },
-        { "id": 10, "category": "EARRINGS", "name": "Elegant Gold Drop Earrings", "material": "Yellow Gold", "price": 145, "rating": 5, "image": "/images/collections/product4.png" },
-        { "id": 11, "category": "NECKLACES", "name": "Diamond Floral Gold Necklace", "material": "Yellow Gold", "price": 195, "rating": 4, "image": "/images/collections/product7.png" },
-        { "id": 12, "category": "BANGLES", "name": "Minimal Diamond Bracelet", "material": "White Gold", "price": 275, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 13, "category": "RINGS", "name": "Pear-Cut Diamond Ring", "material": "White Gold", "price": 320, "rating": 5, "image": "/images/collections/product2.png" },
-        { "id": 14, "category": "EARRINGS", "name": "Classic Diamond Stud Earrings", "material": "White Gold", "price": 110, "rating": 4, "image": "/images/collections/product5.png" },
-        { "id": 15, "category": "NECKLACES", "name": "Heart-Shaped Diamond Necklace", "material": "Rose Gold", "price": 135, "rating": 5, "image": "/images/collections/product7.png" },
-        { "id": 16, "category": "BANGLES", "name": "Gold Diamond Eternity Bangle", "material": "Yellow Gold", "price": 290, "rating": 4, "image": "/images/collections/product3.png" },
-        { "id": 17, "category": "RINGS", "name": "Modern Diamond Engagement Ring", "material": "White Gold", "price": 425, "rating": 5, "image": "/images/collections/product4.png" },
-        { "id": 18, "category": "EARRINGS", "name": "Pearl and Diamond Earrings", "material": "Gold", "price": 165, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 19, "category": "NECKLACES", "name": "Minimal Diamond Solitaire Necklace", "material": "Gold", "price": 105, "rating": 5, "image": "/images/collections/product5.png" },
-        { "id": 20, "category": "BANGLES", "name": "Classic Gold Tennis Bracelet", "material": "Gold", "price": 310, "rating": 5, "image": "/images/collections/product7.png" },
-        { "id": 21, "category": "RINGS", "name": "Vintage-Inspired Diamond Ring", "material": "Rose Gold", "price": 380, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 22, "category": "EARRINGS", "name": "Gold Diamond Huggie Earrings", "material": "Gold", "price": 130, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 23, "category": "NECKLACES", "name": "Gold Pendant Necklace", "material": "Gold", "price": 155, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 24, "category": "BANGLES", "name": "Diamond Line Bracelet", "material": "White Gold", "price": 260, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 25, "category": "RINGS", "name": "Round Diamond Halo Ring", "material": "White Gold", "price": 395, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 26, "category": "EARRINGS", "name": "Diamond Teardrop Earrings", "material": "Gold", "price": 175, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 27, "category": "NECKLACES", "name": "Gold Diamond Cluster Pendant", "material": "Gold", "price": 115, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 28, "category": "BANGLES", "name": "Gold Diamond Cuff Bracelet", "material": "Gold", "price": 285, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 29, "category": "RINGS", "name": "Elegant Oval Diamond Ring", "material": "Yellow Gold", "price": 365, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 30, "category": "EARRINGS", "name": "Gold Floral Stud Earrings", "material": "Gold", "price": 140, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 31, "category": "NECKLACES", "name": "Diamond Bar Pendant Necklace", "material": "White Gold", "price": 125, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 32, "category": "BANGLES", "name": "Diamond Pavé Bangle", "material": "Gold", "price": 325, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 33, "category": "RINGS", "name": "Gold Diamond Stackable Ring", "material": "Yellow Gold", "price": 195, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 34, "category": "EARRINGS", "name": "Modern Diamond Hoop Earrings", "material": "White Gold", "price": 185, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 35, "category": "NECKLACES", "name": "Pear-Cut Gold Pendant", "material": "Gold", "price": 150, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 36, "category": "BANGLES", "name": "Gold Diamond Link Bracelet", "material": "Gold", "price": 295, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 37, "category": "RINGS", "name": "Diamond Twist Ring", "material": "Rose Gold", "price": 235, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 38, "category": "EARRINGS", "name": "Diamond Leaf Drop Earrings", "material": "Gold", "price": 170, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 39, "category": "NECKLACES", "name": "Diamond Infinity Necklace", "material": "White Gold", "price": 160, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 40, "category": "BANGLES", "name": "Diamond Eternity Bracelet", "material": "White Gold", "price": 305, "rating": 5, "image": "/images/collections/product1.png" }
+        { "id": 1, "category": "NECKLACES", "name": "Lab-Grown Diamond ½ct. Round Brilliant Solitaire Pendant", "material": "White", "price": 65, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 2, "category": "EARRINGS", "name": "Lab-Grown Diamond ½ct. tw. Round Brilliant Solitaire Studs", "material": "White", "price": 120, "rating": 4, "image": "/images/collections/product2.webp" },
+        { "id": 3, "category": "NECKLACES", "name": "Lab-Grown Diamond ¼ct. Mini Baguette Pendant", "material": "White", "price": 120, "rating": 4, "image": "/images/collections/product3.webp" },
+        { "id": 4, "category": "NECKLACES", "name": "Lab-Grown Diamond ¼ct. Mini Heart Pendant", "material": "Pink", "price": 89, "rating": 4, "image": "/images/collections/product4.webp" },
+        { "id": 5, "category": "RINGS", "name": "Lab-Grown Diamond 1ct. Round Solitaire Ring", "material": "White", "price": 350, "rating": 4, "image": "/images/collections/product5.webp" },
+        { "id": 6, "category": "EARRINGS", "name": "Lab-Grown Diamond Pear Drop Earrings", "material": "White", "price": 180, "rating": 4, "image": "/images/collections/product7.webp" },
+        { "id": 7, "category": "BANGLES", "name": "Lab-Grown Diamond Tennis Bangle", "material": "White", "price": 250, "rating": 4, "image": "/images/collections/product3.webp" },
+        { "id": 8, "category": "NECKLACES", "name": "Lab-Grown Diamond Floral Pendant", "material": "White", "price": 95, "rating": 4, "image": "/images/collections/product2.webp" },
+        { "id": 9, "category": "RINGS", "name": "Classic Gold Solitaire Ring", "material": "Yellow Gold", "price": 220, "rating": 5, "image": "/images/collections/product3.webp" },
+        { "id": 10, "category": "EARRINGS", "name": "Elegant Gold Drop Earrings", "material": "Yellow Gold", "price": 145, "rating": 5, "image": "/images/collections/product4.webp" },
+        { "id": 11, "category": "NECKLACES", "name": "Diamond Floral Gold Necklace", "material": "Yellow Gold", "price": 195, "rating": 4, "image": "/images/collections/product7.webp" },
+        { "id": 12, "category": "BANGLES", "name": "Minimal Diamond Bracelet", "material": "White Gold", "price": 275, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 13, "category": "RINGS", "name": "Pear-Cut Diamond Ring", "material": "White Gold", "price": 320, "rating": 5, "image": "/images/collections/product2.webp" },
+        { "id": 14, "category": "EARRINGS", "name": "Classic Diamond Stud Earrings", "material": "White Gold", "price": 110, "rating": 4, "image": "/images/collections/product5.webp" },
+        { "id": 15, "category": "NECKLACES", "name": "Heart-Shaped Diamond Necklace", "material": "Rose Gold", "price": 135, "rating": 5, "image": "/images/collections/product7.webp" },
+        { "id": 16, "category": "BANGLES", "name": "Gold Diamond Eternity Bangle", "material": "Yellow Gold", "price": 290, "rating": 4, "image": "/images/collections/product3.webp" },
+        { "id": 17, "category": "RINGS", "name": "Modern Diamond Engagement Ring", "material": "White Gold", "price": 425, "rating": 5, "image": "/images/collections/product4.webp" },
+        { "id": 18, "category": "EARRINGS", "name": "Pearl and Diamond Earrings", "material": "Gold", "price": 165, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 19, "category": "NECKLACES", "name": "Minimal Diamond Solitaire Necklace", "material": "Gold", "price": 105, "rating": 5, "image": "/images/collections/product5.webp" },
+        { "id": 20, "category": "BANGLES", "name": "Classic Gold Tennis Bracelet", "material": "Gold", "price": 310, "rating": 5, "image": "/images/collections/product7.webp" },
+        { "id": 21, "category": "RINGS", "name": "Vintage-Inspired Diamond Ring", "material": "Rose Gold", "price": 380, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 22, "category": "EARRINGS", "name": "Gold Diamond Huggie Earrings", "material": "Gold", "price": 130, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 23, "category": "NECKLACES", "name": "Gold Pendant Necklace", "material": "Gold", "price": 155, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 24, "category": "BANGLES", "name": "Diamond Line Bracelet", "material": "White Gold", "price": 260, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 25, "category": "RINGS", "name": "Round Diamond Halo Ring", "material": "White Gold", "price": 395, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 26, "category": "EARRINGS", "name": "Diamond Teardrop Earrings", "material": "Gold", "price": 175, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 27, "category": "NECKLACES", "name": "Gold Diamond Cluster Pendant", "material": "Gold", "price": 115, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 28, "category": "BANGLES", "name": "Gold Diamond Cuff Bracelet", "material": "Gold", "price": 285, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 29, "category": "RINGS", "name": "Elegant Oval Diamond Ring", "material": "Yellow Gold", "price": 365, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 30, "category": "EARRINGS", "name": "Gold Floral Stud Earrings", "material": "Gold", "price": 140, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 31, "category": "NECKLACES", "name": "Diamond Bar Pendant Necklace", "material": "White Gold", "price": 125, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 32, "category": "BANGLES", "name": "Diamond Pavé Bangle", "material": "Gold", "price": 325, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 33, "category": "RINGS", "name": "Gold Diamond Stackable Ring", "material": "Yellow Gold", "price": 195, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 34, "category": "EARRINGS", "name": "Modern Diamond Hoop Earrings", "material": "White Gold", "price": 185, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 35, "category": "NECKLACES", "name": "Pear-Cut Gold Pendant", "material": "Gold", "price": 150, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 36, "category": "BANGLES", "name": "Gold Diamond Link Bracelet", "material": "Gold", "price": 295, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 37, "category": "RINGS", "name": "Diamond Twist Ring", "material": "Rose Gold", "price": 235, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 38, "category": "EARRINGS", "name": "Diamond Leaf Drop Earrings", "material": "Gold", "price": 170, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 39, "category": "NECKLACES", "name": "Diamond Infinity Necklace", "material": "White Gold", "price": 160, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 40, "category": "BANGLES", "name": "Diamond Eternity Bracelet", "material": "White Gold", "price": 305, "rating": 5, "image": "/images/collections/product1.webp" }
       ]
     }
   },
@@ -349,7 +349,7 @@
     "hero": {
       "breadcrumbLabel": "Breadcrumb",
       "image": {
-        "src": "/images/hero.png",
+        "src": "/images/hero.webp",
         "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
       },
       "heading": "Our Collections",
@@ -380,46 +380,46 @@
       "productsLabel": "products",
       "itemsPerPage": 8,
       "products": [
-        { "id": 1, "category": "NECKLACES", "name": "Lab-Grown Diamond ½ct. Round Brilliant Solitaire Pendant", "material": "White", "price": 65, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 2, "category": "EARRINGS", "name": "Lab-Grown Diamond ½ct. tw. Round Brilliant Solitaire Studs", "material": "White", "price": 120, "rating": 4, "image": "/images/collections/product2.png" },
-        { "id": 3, "category": "NECKLACES", "name": "Lab-Grown Diamond ¼ct. Mini Baguette Pendant", "material": "White", "price": 120, "rating": 4, "image": "/images/collections/product3.png" },
-        { "id": 4, "category": "NECKLACES", "name": "Lab-Grown Diamond ¼ct. Mini Heart Pendant", "material": "Pink", "price": 89, "rating": 4, "image": "/images/collections/product4.png" },
-        { "id": 5, "category": "RINGS", "name": "Lab-Grown Diamond 1ct. Round Solitaire Ring", "material": "White", "price": 350, "rating": 4, "image": "/images/collections/product5.png" },
-        { "id": 6, "category": "EARRINGS", "name": "Lab-Grown Diamond Pear Drop Earrings", "material": "White", "price": 180, "rating": 4, "image": "/images/collections/product7.png" },
-        { "id": 7, "category": "BANGLES", "name": "Lab-Grown Diamond Tennis Bangle", "material": "White", "price": 250, "rating": 4, "image": "/images/collections/product3.png" },
-        { "id": 8, "category": "NECKLACES", "name": "Lab-Grown Diamond Floral Pendant", "material": "White", "price": 95, "rating": 4, "image": "/images/collections/product2.png" },
-        { "id": 9, "category": "RINGS", "name": "Classic Gold Solitaire Ring", "material": "Yellow Gold", "price": 220, "rating": 5, "image": "/images/collections/product3.png" },
-        { "id": 10, "category": "EARRINGS", "name": "Elegant Gold Drop Earrings", "material": "Yellow Gold", "price": 145, "rating": 5, "image": "/images/collections/product4.png" },
-        { "id": 11, "category": "NECKLACES", "name": "Diamond Floral Gold Necklace", "material": "Yellow Gold", "price": 195, "rating": 4, "image": "/images/collections/product7.png" },
-        { "id": 12, "category": "BANGLES", "name": "Minimal Diamond Bracelet", "material": "White Gold", "price": 275, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 13, "category": "RINGS", "name": "Pear-Cut Diamond Ring", "material": "White Gold", "price": 320, "rating": 5, "image": "/images/collections/product2.png" },
-        { "id": 14, "category": "EARRINGS", "name": "Classic Diamond Stud Earrings", "material": "White Gold", "price": 110, "rating": 4, "image": "/images/collections/product5.png" },
-        { "id": 15, "category": "NECKLACES", "name": "Heart-Shaped Diamond Necklace", "material": "Rose Gold", "price": 135, "rating": 5, "image": "/images/collections/product7.png" },
-        { "id": 16, "category": "BANGLES", "name": "Gold Diamond Eternity Bangle", "material": "Yellow Gold", "price": 290, "rating": 4, "image": "/images/collections/product3.png" },
-        { "id": 17, "category": "RINGS", "name": "Modern Diamond Engagement Ring", "material": "White Gold", "price": 425, "rating": 5, "image": "/images/collections/product4.png" },
-        { "id": 18, "category": "EARRINGS", "name": "Pearl and Diamond Earrings", "material": "Gold", "price": 165, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 19, "category": "NECKLACES", "name": "Minimal Diamond Solitaire Necklace", "material": "Gold", "price": 105, "rating": 5, "image": "/images/collections/product5.png" },
-        { "id": 20, "category": "BANGLES", "name": "Classic Gold Tennis Bracelet", "material": "Gold", "price": 310, "rating": 5, "image": "/images/collections/product7.png" },
-        { "id": 21, "category": "RINGS", "name": "Vintage-Inspired Diamond Ring", "material": "Rose Gold", "price": 380, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 22, "category": "EARRINGS", "name": "Gold Diamond Huggie Earrings", "material": "Gold", "price": 130, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 23, "category": "NECKLACES", "name": "Gold Pendant Necklace", "material": "Gold", "price": 155, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 24, "category": "BANGLES", "name": "Diamond Line Bracelet", "material": "White Gold", "price": 260, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 25, "category": "RINGS", "name": "Round Diamond Halo Ring", "material": "White Gold", "price": 395, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 26, "category": "EARRINGS", "name": "Diamond Teardrop Earrings", "material": "Gold", "price": 175, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 27, "category": "NECKLACES", "name": "Gold Diamond Cluster Pendant", "material": "Gold", "price": 115, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 28, "category": "BANGLES", "name": "Gold Diamond Cuff Bracelet", "material": "Gold", "price": 285, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 29, "category": "RINGS", "name": "Elegant Oval Diamond Ring", "material": "Yellow Gold", "price": 365, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 30, "category": "EARRINGS", "name": "Gold Floral Stud Earrings", "material": "Gold", "price": 140, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 31, "category": "NECKLACES", "name": "Diamond Bar Pendant Necklace", "material": "White Gold", "price": 125, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 32, "category": "BANGLES", "name": "Diamond Pavé Bangle", "material": "Gold", "price": 325, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 33, "category": "RINGS", "name": "Gold Diamond Stackable Ring", "material": "Yellow Gold", "price": 195, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 34, "category": "EARRINGS", "name": "Modern Diamond Hoop Earrings", "material": "White Gold", "price": 185, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 35, "category": "NECKLACES", "name": "Pear-Cut Gold Pendant", "material": "Gold", "price": 150, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 36, "category": "BANGLES", "name": "Gold Diamond Link Bracelet", "material": "Gold", "price": 295, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 37, "category": "RINGS", "name": "Diamond Twist Ring", "material": "Rose Gold", "price": 235, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 38, "category": "EARRINGS", "name": "Diamond Leaf Drop Earrings", "material": "Gold", "price": 170, "rating": 4, "image": "/images/collections/product1.png" },
-        { "id": 39, "category": "NECKLACES", "name": "Diamond Infinity Necklace", "material": "White Gold", "price": 160, "rating": 5, "image": "/images/collections/product1.png" },
-        { "id": 40, "category": "BANGLES", "name": "Diamond Eternity Bracelet", "material": "White Gold", "price": 305, "rating": 5, "image": "/images/collections/product1.png" }
+        { "id": 1, "category": "NECKLACES", "name": "Lab-Grown Diamond ½ct. Round Brilliant Solitaire Pendant", "material": "White", "price": 65, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 2, "category": "EARRINGS", "name": "Lab-Grown Diamond ½ct. tw. Round Brilliant Solitaire Studs", "material": "White", "price": 120, "rating": 4, "image": "/images/collections/product2.webp" },
+        { "id": 3, "category": "NECKLACES", "name": "Lab-Grown Diamond ¼ct. Mini Baguette Pendant", "material": "White", "price": 120, "rating": 4, "image": "/images/collections/product3.webp" },
+        { "id": 4, "category": "NECKLACES", "name": "Lab-Grown Diamond ¼ct. Mini Heart Pendant", "material": "Pink", "price": 89, "rating": 4, "image": "/images/collections/product4.webp" },
+        { "id": 5, "category": "RINGS", "name": "Lab-Grown Diamond 1ct. Round Solitaire Ring", "material": "White", "price": 350, "rating": 4, "image": "/images/collections/product5.webp" },
+        { "id": 6, "category": "EARRINGS", "name": "Lab-Grown Diamond Pear Drop Earrings", "material": "White", "price": 180, "rating": 4, "image": "/images/collections/product7.webp" },
+        { "id": 7, "category": "BANGLES", "name": "Lab-Grown Diamond Tennis Bangle", "material": "White", "price": 250, "rating": 4, "image": "/images/collections/product3.webp" },
+        { "id": 8, "category": "NECKLACES", "name": "Lab-Grown Diamond Floral Pendant", "material": "White", "price": 95, "rating": 4, "image": "/images/collections/product2.webp" },
+        { "id": 9, "category": "RINGS", "name": "Classic Gold Solitaire Ring", "material": "Yellow Gold", "price": 220, "rating": 5, "image": "/images/collections/product3.webp" },
+        { "id": 10, "category": "EARRINGS", "name": "Elegant Gold Drop Earrings", "material": "Yellow Gold", "price": 145, "rating": 5, "image": "/images/collections/product4.webp" },
+        { "id": 11, "category": "NECKLACES", "name": "Diamond Floral Gold Necklace", "material": "Yellow Gold", "price": 195, "rating": 4, "image": "/images/collections/product7.webp" },
+        { "id": 12, "category": "BANGLES", "name": "Minimal Diamond Bracelet", "material": "White Gold", "price": 275, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 13, "category": "RINGS", "name": "Pear-Cut Diamond Ring", "material": "White Gold", "price": 320, "rating": 5, "image": "/images/collections/product2.webp" },
+        { "id": 14, "category": "EARRINGS", "name": "Classic Diamond Stud Earrings", "material": "White Gold", "price": 110, "rating": 4, "image": "/images/collections/product5.webp" },
+        { "id": 15, "category": "NECKLACES", "name": "Heart-Shaped Diamond Necklace", "material": "Rose Gold", "price": 135, "rating": 5, "image": "/images/collections/product7.webp" },
+        { "id": 16, "category": "BANGLES", "name": "Gold Diamond Eternity Bangle", "material": "Yellow Gold", "price": 290, "rating": 4, "image": "/images/collections/product3.webp" },
+        { "id": 17, "category": "RINGS", "name": "Modern Diamond Engagement Ring", "material": "White Gold", "price": 425, "rating": 5, "image": "/images/collections/product4.webp" },
+        { "id": 18, "category": "EARRINGS", "name": "Pearl and Diamond Earrings", "material": "Gold", "price": 165, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 19, "category": "NECKLACES", "name": "Minimal Diamond Solitaire Necklace", "material": "Gold", "price": 105, "rating": 5, "image": "/images/collections/product5.webp" },
+        { "id": 20, "category": "BANGLES", "name": "Classic Gold Tennis Bracelet", "material": "Gold", "price": 310, "rating": 5, "image": "/images/collections/product7.webp" },
+        { "id": 21, "category": "RINGS", "name": "Vintage-Inspired Diamond Ring", "material": "Rose Gold", "price": 380, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 22, "category": "EARRINGS", "name": "Gold Diamond Huggie Earrings", "material": "Gold", "price": 130, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 23, "category": "NECKLACES", "name": "Gold Pendant Necklace", "material": "Gold", "price": 155, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 24, "category": "BANGLES", "name": "Diamond Line Bracelet", "material": "White Gold", "price": 260, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 25, "category": "RINGS", "name": "Round Diamond Halo Ring", "material": "White Gold", "price": 395, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 26, "category": "EARRINGS", "name": "Diamond Teardrop Earrings", "material": "Gold", "price": 175, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 27, "category": "NECKLACES", "name": "Gold Diamond Cluster Pendant", "material": "Gold", "price": 115, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 28, "category": "BANGLES", "name": "Gold Diamond Cuff Bracelet", "material": "Gold", "price": 285, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 29, "category": "RINGS", "name": "Elegant Oval Diamond Ring", "material": "Yellow Gold", "price": 365, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 30, "category": "EARRINGS", "name": "Gold Floral Stud Earrings", "material": "Gold", "price": 140, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 31, "category": "NECKLACES", "name": "Diamond Bar Pendant Necklace", "material": "White Gold", "price": 125, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 32, "category": "BANGLES", "name": "Diamond Pavé Bangle", "material": "Gold", "price": 325, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 33, "category": "RINGS", "name": "Gold Diamond Stackable Ring", "material": "Yellow Gold", "price": 195, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 34, "category": "EARRINGS", "name": "Modern Diamond Hoop Earrings", "material": "White Gold", "price": 185, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 35, "category": "NECKLACES", "name": "Pear-Cut Gold Pendant", "material": "Gold", "price": 150, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 36, "category": "BANGLES", "name": "Gold Diamond Link Bracelet", "material": "Gold", "price": 295, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 37, "category": "RINGS", "name": "Diamond Twist Ring", "material": "Rose Gold", "price": 235, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 38, "category": "EARRINGS", "name": "Diamond Leaf Drop Earrings", "material": "Gold", "price": 170, "rating": 4, "image": "/images/collections/product1.webp" },
+        { "id": 39, "category": "NECKLACES", "name": "Diamond Infinity Necklace", "material": "White Gold", "price": 160, "rating": 5, "image": "/images/collections/product1.webp" },
+        { "id": 40, "category": "BANGLES", "name": "Diamond Eternity Bracelet", "material": "White Gold", "price": 305, "rating": 5, "image": "/images/collections/product1.webp" }
       ]
     }
   },
@@ -443,7 +443,7 @@
       },
       "productDetails": {
         "images": {
-            "src": "/images/collections/product9.png",
+            "src": "/images/collections/product9.webp",
             "alt": "Diamond solitaire ring view 1"
         },
         "product": {
@@ -526,7 +526,7 @@
           }
         ],
         "image": {
-          "src": "/images/collections/product10.png",
+          "src": "/images/collections/product10.webp",
           "alt": "Close-up of a lab-grown diamond solitaire ring in white gold"
         }
       }
@@ -535,7 +535,7 @@
       "hero": {
         "breadcrumbLabel": "Breadcrumb",
         "image": {
-          "src": "/images/hero.png",
+          "src": "/images/hero.webp",
           "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
         },
         "heading": "Our Gallery",
@@ -558,37 +558,37 @@
             "id": 1,
             "title": "Traditional Gold Necklace",
             "category": "Gold Jewellery",
-            "image": "/images/gallery/gallery1.png"
+            "image": "/images/gallery/gallery1.webp"
           },
           {
             "id": 2,
             "title": "Diamond Solitaire Ring",
             "category": "Diamond Jewellery",
-            "image": "/images/gallery/gallery2.png"
+            "image": "/images/gallery/gallery2.webp"
           },
           {
             "id": 3,
             "title": "Diamond Drop Earrings",
             "category": "Earrings",
-            "image": "/images/gallery/gallery3.png"
+            "image": "/images/gallery/gallery3.webp"
           },
           {
             "id": 4,
             "title": "Diamond Tennis Bangles",
             "category": "Bangles",
-            "image": "/images/gallery/gallery4.png"
+            "image": "/images/gallery/gallery4.webp"
           },
           {
             "id": 5,
             "title": "Emerald Statement Ring",
             "category": "Gemstone Jewellery",
-            "image": "/images/gallery/gallery5.png"
+            "image": "/images/gallery/gallery5.webp"
           },
           {
             "id": 6,
             "title": "Gold Pendant Necklace",
             "category": "Necklaces",
-            "image": "/images/gallery/gallery6.png"
+            "image": "/images/gallery/gallery6.webp"
           },
           {
             "id": 7,
@@ -618,121 +618,121 @@
             "id": 11,
             "title": "Ruby Gold Ring",
             "category": "Gemstone Jewellery",
-            "image": "/images/gallery/gallery2.png"
+            "image": "/images/gallery/gallery2.webp"
           },
           {
             "id": 12,
             "title": "Floral Diamond Pendant",
             "category": "Necklaces",
-            "image": "/images/gallery/gallery1.png"
+            "image": "/images/gallery/gallery1.webp"
           },
           {
             "id": 13,
             "title": "Royal Gold Necklace",
             "category": "Gold Jewellery",
-            "image": "/images/gallery/gallery4.png"
+            "image": "/images/gallery/gallery4.webp"
           },
           {
             "id": 14,
             "title": "Princess Cut Ring",
             "category": "Diamond Jewellery",
-            "image": "/images/gallery/gallery5.png"
+            "image": "/images/gallery/gallery5.webp"
           },
           {
             "id": 15,
             "title": "Statement Diamond Earrings",
             "category": "Earrings",
-            "image": "/images/gallery/gallery6.png"
+            "image": "/images/gallery/gallery6.webp"
           },
           {
             "id": 16,
             "title": "Classic Gold Bangles",
             "category": "Bangles",
-            "image": "/images/gallery/gallery2.png"
+            "image": "/images/gallery/gallery2.webp"
           },
           {
             "id": 17,
             "title": "Green Emerald Jewellery",
             "category": "Gemstone Jewellery",
-            "image": "/images/gallery/gallery1.png"
+            "image": "/images/gallery/gallery1.webp"
           },
           {
             "id": 18,
             "title": "Diamond Floral Necklace",
             "category": "Necklaces",
-            "image": "/images/gallery/gallery3.png"
+            "image": "/images/gallery/gallery3.webp"
           },
           {
             "id": 19,
             "title": "Gold Bridal Earrings",
             "category": "Gold Jewellery",
-            "image": "/images/gallery/gallery1.png"
+            "image": "/images/gallery/gallery1.webp"
           },
           {
             "id": 20,
             "title": "Round Brilliant Ring",
             "category": "Diamond Jewellery",
-            "image": "/images/gallery/gallery3.png"
+            "image": "/images/gallery/gallery3.webp"
           },
           {
             "id": 21,
             "title": "Pear Drop Earrings",
             "category": "Earrings",
-            "image": "/images/gallery/gallery6.png"
+            "image": "/images/gallery/gallery6.webp"
           },
           {
             "id": 22,
             "title": "Diamond Cuff Bracelet",
             "category": "Bracelets",
-            "image": "/images/gallery/gallery5.png"
+            "image": "/images/gallery/gallery5.webp"
           },
           {
             "id": 23,
             "title": "Emerald Halo Ring",
             "category": "Gemstone Jewellery",
-            "image": "/images/gallery/gallery4.png"
+            "image": "/images/gallery/gallery4.webp"
           },
           {
             "id": 24,
             "title": "Gold Floral Pendant",
             "category": "Necklaces",
-            "image": "/images/gallery/gallery1.png"
+            "image": "/images/gallery/gallery1.webp"
           },
           {
             "id": 25,
             "title": "Vintage Gold Jewellery",
             "category": "Gold Jewellery",
-            "image": "/images/gallery/gallery3.png"
+            "image": "/images/gallery/gallery3.webp"
           },
           {
             "id": 26,
             "title": "Elegant Diamond Ring",
             "category": "Diamond Jewellery",
-            "image": "/images/gallery/gallery2.png"
+            "image": "/images/gallery/gallery2.webp"
           },
           {
             "id": 27,
             "title": "Crystal Drop Earrings",
             "category": "Earrings",
-            "image": "/images/gallery/gallery4.png"
+            "image": "/images/gallery/gallery4.webp"
           },
           {
             "id": 28,
             "title": "Gold Diamond Bangles",
             "category": "Bangles",
-            "image": "/images/gallery/gallery5.png"
+            "image": "/images/gallery/gallery5.webp"
           },
           {
             "id": 29,
             "title": "Emerald Statement Jewellery",
             "category": "Gemstone Jewellery",
-            "image": "/images/gallery/gallery6.png"
+            "image": "/images/gallery/gallery6.webp"
           },
           {
             "id": 30,
             "title": "Diamond Pendant",
             "category": "Necklaces",
-            "image": "/images/gallery/gallery3.png"
+            "image": "/images/gallery/gallery3.webp"
           }
         ]
       }
@@ -741,7 +741,7 @@
       "hero": {
         "breadcrumbLabel": "Breadcrumb",
         "image": {
-          "src": "/images/hero.png",
+          "src": "/images/hero.webp",
           "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
         },
         "heading": "Our Blog",
@@ -774,7 +774,7 @@
             "category": "Trends",
             "title": "Latest Jewellery Trends You Need to Know in 2025",
             "description": "Discover the top jewellery trends of 2025, from minimal designs to statement pieces, and find the perfect styles to elevate your look this season.",
-            "image": "/images/blog/blog1.png",
+            "image": "/images/blog/blog1.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "latest-jewellery-trends"
@@ -784,7 +784,7 @@
             "category": "Bridal",
             "title": "Bridal Jewellery Styling Tips for Your Special Day",
             "description": "From traditional temple jewellery to modern diamond sets, explore expert styling tips to create a flawless bridal look for your big day.",
-            "image": "/images/blog/blog3.png",
+            "image": "/images/blog/blog3.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "bridal-jewellery-styling"
@@ -794,7 +794,7 @@
             "category": "Guide",
             "title": "Gold vs Diamond Jewellery – Which Is Right for You?",
             "description": "Compare the beauty, value and benefits of gold and diamond jewellery to make an informed choice that suits your style and budget.",
-            "image": "/images/blog/blog2.png",
+            "image": "/images/blog/blog2.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "gold-vs-diamond"
@@ -804,7 +804,7 @@
             "category": "Care Tips",
             "title": "Jewellery Care Tips to Keep Your Pieces Shining",
             "description": "Keep your jewellery beautiful for years with these simple yet effective care tips. Learn how to clean, store and maintain your precious pieces.",
-            "image": "/images/blog/blog4.png",
+            "image": "/images/blog/blog4.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "jewellery-care-tips"
@@ -814,7 +814,7 @@
             "category": "Traditional",
             "title": "Traditional Jewellery Designs That Never Go Out of Style",
             "description": "Explore timeless traditional jewellery designs that celebrate heritage, craftsmanship and elegance, perfect for every occasion.",
-            "image": "/images/blog/blog6.png",
+            "image": "/images/blog/blog6.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "traditional-jewellery-designs"
@@ -824,7 +824,7 @@
             "category": "Buying Guide",
             "title": "How to Choose the Perfect Jewellery for Any Occasion",
             "description": "Find the right jewellery for weddings, parties, office wear and daily use with our expert buying guide. Learn what to consider for every occasion.",
-            "image": "/images/blog/blog5.png",
+            "image": "/images/blog/blog5.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "choose-perfect-jewellery"
@@ -834,7 +834,7 @@
             "category": "Diamond Guide",
             "title": "How to Choose the Perfect Diamond",
             "description": "Understand the four Cs of diamonds and discover what to look for when choosing a beautiful piece for your collection.",
-            "image": "/images/blog/blog4.png",
+            "image": "/images/blog/blog4.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "perfect-diamond-guide"
@@ -844,7 +844,7 @@
             "category": "Gold Guide",
             "title": "Understanding Gold Purity Before You Buy",
             "description": "Learn about gold purity, karats and hallmarks so you can choose jewellery with confidence and clarity.",
-            "image": "/images/blog/blog1.png",
+            "image": "/images/blog/blog1.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "understanding-gold-purity"
@@ -854,7 +854,7 @@
             "category": "Style Guide",
             "title": "Everyday Jewellery That Feels Effortlessly Elegant",
             "description": "Explore versatile necklaces, earrings and bracelets that bring understated elegance to your everyday outfits.",
-            "image": "/images/blog/blog2.png",
+            "image": "/images/blog/blog2.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "everyday-jewellery"
@@ -864,7 +864,7 @@
             "category": "Bridal Guide",
             "title": "A Guide to Choosing Your Wedding Necklace",
             "description": "Find the right necklace for your neckline, wedding outfit and personal style with these timeless bridal styling ideas.",
-            "image": "/images/blog/blog3.png",
+            "image": "/images/blog/blog3.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "wedding-necklace-guide"
@@ -874,7 +874,7 @@
             "category": "Care Tips",
             "title": "Simple Ways to Protect Your Diamond Jewellery",
             "description": "Discover practical storage, cleaning and maintenance habits that help your diamond jewellery remain beautiful.",
-            "image": "/images/blog/blog4.png",
+            "image": "/images/blog/blog4.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "diamond-jewellery-care"
@@ -884,7 +884,7 @@
             "category": "Inspiration",
             "title": "Jewellery Gifts for Every Special Moment",
             "description": "Explore thoughtful jewellery gift ideas for birthdays, anniversaries, celebrations and unforgettable milestones.",
-            "image": "/images/blog/blog5.png",
+            "image": "/images/blog/blog5.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "jewellery-gift-guide"
@@ -894,7 +894,7 @@
             "category": "Trends",
             "title": "The Beauty of Layered Necklaces",
             "description": "Learn how to combine necklace lengths, textures and pendants to create a beautifully balanced layered look.",
-            "image": "/images/blog/blog6.png",
+            "image": "/images/blog/blog6.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "layered-necklaces"
@@ -904,7 +904,7 @@
             "category": "Guide",
             "title": "A Beginner's Guide to Fine Jewellery",
             "description": "Discover essential jewellery terminology, materials and design details to help you make informed choices.",
-            "image": "/images/blog/blog3.png",
+            "image": "/images/blog/blog3.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "fine-jewellery-guide"
@@ -914,7 +914,7 @@
             "category": "Style Guide",
             "title": "How to Match Earrings with Your Outfit",
             "description": "Find the right earrings for casual outfits, formal events and celebrations with these simple styling suggestions.",
-            "image": "/images/blog/blog2.png",
+            "image": "/images/blog/blog2.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "earring-styling-guide"
@@ -924,7 +924,7 @@
             "category": "Jewellery Guide",
             "title": "Timeless Pieces Every Jewellery Collection Needs",
             "description": "Build a versatile collection with elegant essentials that complement different outfits, occasions and personal styles.",
-            "image": "/images/blog/blog1.png",
+            "image": "/images/blog/blog1.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "jewellery-essentials"
@@ -934,7 +934,7 @@
             "category": "Diamond Guide",
             "title": "Discover the Beauty of Diamond Cuts",
             "description": "Explore popular diamond cuts and learn how shape and proportions influence the appearance of your jewellery.",
-            "image": "/images/blog/blog6.png",
+            "image": "/images/blog/blog6.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "diamond-cuts-guide"
@@ -944,7 +944,7 @@
             "category": "Traditional",
             "title": "Modern Ways to Style Traditional Gold Jewellery",
             "description": "Combine traditional gold pieces with contemporary outfits for a look that feels distinctive and timeless.",
-            "image": "/images/blog/blog5.png",
+            "image": "/images/blog/blog5.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "modern-gold-styling"
@@ -954,7 +954,7 @@
             "category": "Buying Guide",
             "title": "What to Look for in a Jewellery Certificate",
             "description": "Understand important jewellery certification details and the information to check before making a purchase.",
-            "image": "/images/blog/blog4.png",
+            "image": "/images/blog/blog4.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "jewellery-certificate-guide"
@@ -964,7 +964,7 @@
             "category": "Inspiration",
             "title": "Jewellery Trends for Celebrations and Parties",
             "description": "Discover elegant statement pieces and styling ideas to complement festive looks and special celebrations.",
-            "image": "/images/blog/blog6.png",
+            "image": "/images/blog/blog6.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "party-jewellery-trends"
@@ -974,7 +974,7 @@
             "category": "Care Tips",
             "title": "How to Store Your Jewellery Safely",
             "description": "Keep your favourite pieces organised and protected with simple storage ideas for necklaces, rings and earrings.",
-            "image": "/images/blog/blog5.png",
+            "image": "/images/blog/blog5.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "jewellery-storage-guide"
@@ -984,7 +984,7 @@
             "category": "Style Guide",
             "title": "Minimal Jewellery for a Sophisticated Look",
             "description": "Discover delicate designs and understated combinations that add subtle elegance to your everyday style.",
-            "image": "/images/blog/blog4.png",
+            "image": "/images/blog/blog4.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "minimal-jewellery-style"
@@ -994,7 +994,7 @@
             "category": "Bridal",
             "title": "Choosing Jewellery for Different Bridal Outfits",
             "description": "Coordinate metals, gemstones and statement pieces with different bridal outfit colours and silhouettes.",
-            "image": "/images/blog/blog3.png",
+            "image": "/images/blog/blog3.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "bridal-outfit-jewellery"
@@ -1004,7 +1004,7 @@
             "category": "Gold Guide",
             "title": "Gold Jewellery Styles for Every Generation",
             "description": "Explore classic and contemporary gold designs that bring together personal expression and timeless craftsmanship.",
-            "image": "/images/blog/blog2.png",
+            "image": "/images/blog/blog2.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "gold-jewellery-styles"
@@ -1014,7 +1014,7 @@
             "category": "Inspiration",
             "title": "Finding Your Signature Jewellery Style",
             "description": "Discover how to build a jewellery collection that reflects your personality, preferences and favourite occasions.",
-            "image": "/images/blog/blog1.png",
+            "image": "/images/blog/blog1.webp",
             "date": "JAN 20",
             "year": "2025",
             "slug": "signature-jewellery-style"
@@ -1026,7 +1026,7 @@
       "hero": {
         "breadcrumbLabel": "Breadcrumb",
         "image": {
-          "src": "/images/hero.png",
+          "src": "/images/hero.webp",
           "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
         },
         "heading": "Blog Detail",
@@ -1042,7 +1042,7 @@
         "dateLabel": "JAN 20, 2025",
         "introduction": "Beauty is not just about looking good. It's about feeling confident and expressing your unique style. With the right care and mindful choices, you can keep your jewellery shining for years. In this article, we're sharing simple yet effective tips that will help you maintain the beauty and brilliance of your favourite pieces.",
         "image": {
-          "src": "/images/blog/beauty-tips.png",
+          "src": "/images/blog/beauty-tips.webp",
           "alt": "Elegant jewellery styling with delicate gemstone rings"
         },
         "quotation": "Jewellery adds a touch of elegance to every moment. With the right care and styling, you can keep your favourite pieces looking beautiful for years to come. These simple tips will help you maintain their shine, protect their quality and make them a long-lasting part of your collection.",
@@ -1083,7 +1083,7 @@
       "hero": {
         "breadcrumbLabel": "Breadcrumb",
         "image": {
-          "src": "/images/hero.png",
+          "src": "/images/hero.webp",
           "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
         },
         "heading": "Our Testimonial",
@@ -1111,108 +1111,108 @@
         "reviews": [
           {
             "name": "Ananya Sharma",
-            "avatar": "/images/testimonial/avatar1.png",
+            "avatar": "/images/testimonial/avatar1.webp",
             "rating": 5,
             "text": "Absolutely loved the craftsmanship and quality. The jewellery is even more beautiful in person. Perfect for special occasions. Highly recommended!",
-            "product": "/images/testimonial/product1.png"
+            "product": "/images/testimonial/product1.webp"
           },
           {
             "name": "Rohit Mehta",
-            "avatar": "/images/testimonial/avatar2.png",
+            "avatar": "/images/testimonial/avatar2.webp",
             "rating": 5,
             "text": "Great collection and excellent customer service. I purchased a ring for my engagement and it was perfect. Truly a trusted brand!",
-            "product": "/images/gallery/gallery1.png"
+            "product": "/images/gallery/gallery1.webp"
           },
           {
             "name": "Priya Verma",
-            "avatar": "/images/testimonial/avatar3.png",
+            "avatar": "/images/testimonial/avatar3.webp",
             "rating": 5,
             "text": "The designs are unique and elegant. I received so many compliments on my necklace. The quality and finishing are excellent.",
-            "product": "/images/gallery/gallery2.png"
+            "product": "/images/gallery/gallery2.webp"
           },
           {
             "name": "Neha Kapoor",
-            "avatar": "/images/testimonial/avatar4.png",
+            "avatar": "/images/testimonial/avatar4.webp",
             "rating": 5,
             "text": "I bought a set for my wedding and it was just amazing. The detailing and finish are outstanding. Thank you for making my special day memorable!",
-            "product": "/images/gallery/gallery3.png"
+            "product": "/images/gallery/gallery3.webp"
           },
           {
             "name": "Amit Joshi",
-            "avatar": "/images/testimonial/avatar5.png",
+            "avatar": "/images/testimonial/avatar5.webp",
             "rating": 5,
             "text": "Beautiful designs and premium quality. The team helped me choose the right piece and the experience was smooth and delightful.",
-            "product": "/images/gallery/gallery4.png"
+            "product": "/images/gallery/gallery4.webp"
           },
           {
             "name": "Kavita Singh",
-            "avatar": "/images/testimonial/avatar6.png",
+            "avatar": "/images/testimonial/avatar6.webp",
             "rating": 5,
             "text": "Loved the variety and elegant designs. The jewellery looks absolutely stunning and is worth every penny. Great experience overall!",
-            "product": "/images/gallery/gallery5.png"
+            "product": "/images/gallery/gallery5.webp"
           },
           {
             "name": "Vikram Malhotra",
-            "avatar": "/images/testimonial/avatar7.png",
+            "avatar": "/images/testimonial/avatar7.webp",
             "rating": 5,
             "text": "The bracelet I purchased is of excellent quality and looks very premium. The service and packaging were also great.",
-            "product": "/images/gallery/gallery6.png"
+            "product": "/images/gallery/gallery6.webp"
           },
           {
             "name": "Sneha Rathi",
-            "avatar": "/images/testimonial/avatar5.png",
+            "avatar": "/images/testimonial/avatar5.webp",
             "rating": 5,
             "text": "I've been a regular customer and their collection never disappoints. Elegant, timeless and perfect for every occasion.",
-            "product": "/images/collections/product1.png"
+            "product": "/images/collections/product1.webp"
           },
           {
             "name": "Karan Gupta",
-            "avatar": "/images/testimonial/avatar1.png",
+            "avatar": "/images/testimonial/avatar1.webp",
             "rating": 5,
             "text": "Amazing collection with modern yet traditional designs. The buying experience was seamless and the quality is top-notch.",
-            "product": "/images/collections/product2.png"
+            "product": "/images/collections/product2.webp"
           },
           {
             "name": "Meera Agarwal",
-            "avatar": "/images/testimonial/avatar2.png",
+            "avatar": "/images/testimonial/avatar2.webp",
             "rating": 5,
             "text": "A wonderful experience from start to finish. The jewellery is elegant, beautifully finished and ideal for gifting.",
-            "product": "/images/collections/product3.png"
+            "product": "/images/collections/product3.webp"
           },
           {
             "name": "Arjun Verma",
-            "avatar": "/images/testimonial/avatar3.png",
+            "avatar": "/images/testimonial/avatar3.webp",
             "rating": 5,
             "text": "Excellent craftsmanship and a beautiful collection. The team made choosing the perfect anniversary gift effortless.",
-            "product": "/images/collections/product4.png"
+            "product": "/images/collections/product4.webp"
           },
           {
             "name": "Pooja Malhotra",
-            "avatar": "/images/testimonial/avatar4.png",
+            "avatar": "/images/testimonial/avatar4.webp",
             "rating": 5,
             "text": "Every detail feels luxurious. I absolutely love my new jewellery and would happily recommend this collection.",
-            "product": "/images/collections/product5.png"
+            "product": "/images/collections/product5.webp"
           },
           {
             "name": "Ishita Roy",
-            "avatar": "/images/testimonial/avatar5.png",
+            "avatar": "/images/testimonial/avatar5.webp",
             "rating": 5,
             "text": "Beautiful packaging, elegant designs and excellent finishing. My purchase exceeded my expectations.",
-            "product": "/images/collections/product7.png"
+            "product": "/images/collections/product7.webp"
           },
           {
             "name": "Rahul Kapoor",
-            "avatar": "/images/testimonial/avatar6.png",
+            "avatar": "/images/testimonial/avatar6.webp",
             "rating": 5,
             "text": "The quality is impressive and the design is timeless. A perfect choice for an important celebration.",
-            "product": "/images/collections/product8.png"
+            "product": "/images/collections/product8.webp"
           },
           {
             "name": "Simran Kaur",
-            "avatar": "/images/testimonial/avatar7.png",
+            "avatar": "/images/testimonial/avatar7.webp",
             "rating": 5,
             "text": "My favourite place for elegant jewellery. The details, presentation and overall experience were lovely.",
-            "product": "/images/collections/product9.png"
+            "product": "/images/collections/product9.webp"
           }
         ]
       }
@@ -1221,7 +1221,7 @@
       "hero": {
         "breadcrumbLabel": "Breadcrumb",
         "image": {
-          "src": "/images/hero.png",
+          "src": "/images/hero.webp",
           "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
         },
         "heading": "Contact Us",
@@ -1319,7 +1319,7 @@
       "hero": {
         "breadcrumbLabel": "Breadcrumb",
         "image": {
-          "src": "/images/hero.png",
+          "src": "/images/hero.webp",
           "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
         },
         "heading": "FAQs",
@@ -1375,7 +1375,7 @@
       "hero": {
         "breadcrumbLabel": "Breadcrumb",
         "image": {
-          "src": "/images/hero.png",
+          "src": "/images/hero.webp",
           "alt": "Elegant fine jewellery with gold bracelets and diamond rings"
         },
         "heading": "Enquiry Now",
@@ -1389,7 +1389,7 @@
         "headingHighlight": "Perfect Jewellery",
         "description": "Share your requirements with us and our jewellery experts will get back to you with personalised recommendations, pricing and availability.",
         "image": {
-          "src": "/images/enquiry/jewellery.png",
+          "src": "/images/enquiry/jewellery.webp",
           "alt": "Elegant bridal jewellery featuring a necklace and statement earrings"
         },
         "assistanceHeading": "Need Assistance?",
