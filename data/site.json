@@ -52,9 +52,9 @@
       { "label": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" }
     ],
     "copyright": {
-      "brand": "AURUM",
+      "brand": "Copyright",
       "year": 2026,
-      "rights": "All Rights Reserved."
+      "rights": "All Rights Reserved. Powered By Lestow."
     }
   },
   "home": {
@@ -1247,7 +1247,6 @@
             "icon": "phone",
             "title": "Phone Number",
             "lines": [
-              "+1 00000000",
               "+1 00000000"
             ]
           },
@@ -1255,7 +1254,6 @@
             "icon": "email",
             "title": "Email Address",
             "lines": [
-              "info@XYZ.com",
               "info@XYZ.com"
             ]
           },
