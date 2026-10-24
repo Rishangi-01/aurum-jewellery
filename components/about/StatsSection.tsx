@@ -187,16 +187,6 @@ export default function StatsSection() {
                     {stat.label}
                   </p>
                 </div>
-
-                {/* Small gold diamond between desktop circles */}
-                {index < statsSectionData.stats.length - 1 && (
-                  <span
-                    aria-hidden="true"
-                    className="absolute -right-[5px] top-1/2 z-20 hidden -translate-y-1/2 text-xl text-[#b98a49] lg:block"
-                  >
-                    ✦
-                  </span>
-                )}
               </motion.div>
             );
           })}
